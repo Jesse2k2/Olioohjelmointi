@@ -6,7 +6,7 @@ namespace Harjoitus1ajoneuvo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("moi !");
+            Console.WriteLine("yryryr !");
         }
     }
 }
